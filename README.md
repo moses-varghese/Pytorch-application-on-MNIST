@@ -1,4 +1,4 @@
-# Pytorch-application-on-MNSIT
+# Pytorch-application-on-MNIST
 
 Experiment with different optimizers on the MNIST dataset with different hyper-parameters using PyTorch. We used LeNet with ReLU activation function, Kaiming He initialization and logistic loss. We experimented using gradient descent, stochastic gradient
 descent, AdaGrad and ADAM.
