@@ -12,3 +12,7 @@ descent, AdaGrad and ADAM.
 (d) ADAM: We fixed a reasonable batch size and a learning rate. We tried three different values on adaptivity momentum (β1 in PyTorch implementation) and three different values on gradient momentum (β2 in PyTorch implementation). We plotted three figures; each figure corresponds to one β1 and each curve corresponds to one β2
 
 Finally, a discussion on what are the advantages and disadvantage of different algorithms from the optimization point of view with focus on areas related to hyper-parameter sensitivity, convergence rates, etc.
+
+A example of plot is shown below.
+
+![e1](e1.PNG)
